@@ -28,8 +28,7 @@ body{
     color:white;
 }
 
-.watermark{
+#watermark{
     color: gray;
     text-align: right;
-    font-size: 50;
 }
