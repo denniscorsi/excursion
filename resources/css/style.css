@@ -2,7 +2,6 @@ h1{
     font-size: 50;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
-    color:white;
     text-align: center;
 }
 
@@ -26,4 +25,10 @@ a{
 body{
     background-color: black;
     text-align: center;
+    color:white;
+}
+
+.watermark{
+    color: gray;
+    text-align: right;
 }
