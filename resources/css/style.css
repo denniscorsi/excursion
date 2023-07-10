@@ -31,4 +31,5 @@ body{
 .watermark{
     color: gray;
     text-align: right;
+    font-size: 50;
 }
